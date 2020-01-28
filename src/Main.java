@@ -5,5 +5,11 @@ public class Main {
         IanKarl ianAndKarl =  new IanKarl();
         ianAndKarl.printHelloIan();
         System.out.println(jessieJames.jessieJamesMethod());
+
+        XiaoweiHaowen John = new XiaoweiHaowen();
+        System.out.println(John.piano(27));
+        John.saySomething();
+
+
     }
 }

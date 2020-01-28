@@ -7,4 +7,7 @@ public class XiaoweiHaowen {
         return keyNumber;
     }
 
+    public void saySomething() {
+        System.out.println("Good job!");
+    }
 }
