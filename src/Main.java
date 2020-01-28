@@ -5,5 +5,9 @@ public class Main {
         IanKarl ianAndKarl =  new IanKarl();
         ianAndKarl.printHelloIan();
         System.out.println(jessieJames.jessieJamesMethod());
+
+        CrayMatthew crayAndMatt = new CrayMatthew();
+        int cam = crayAndMatt.Noomba();
+        System.out.println(cam);
     }
 }
