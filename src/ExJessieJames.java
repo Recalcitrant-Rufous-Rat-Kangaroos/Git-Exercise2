@@ -15,6 +15,6 @@ public class ExJessieJames {
     public String jessieJamesMethod(){
         String string1 = "Prepare for trouble";
         String string2 = "and make it double!";
-        return (string1 + "... " + string2);
+        return (string1 + "... " + string2 + "other stuff");
     }
 }
