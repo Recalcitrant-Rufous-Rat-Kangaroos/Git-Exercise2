@@ -4,6 +4,8 @@ public class Main {
         ExJessieJames jessieJames = new ExJessieJames();
         IanKarl ianAndKarl =  new IanKarl();
         ianAndKarl.printHelloIan();
+        MarcelinoRussell marcelinoRussell = new MarcelinoRussell();
+        System.out.println(marcelinoRussell.russellStuff());
         System.out.println(jessieJames.jessieJamesMethod());
 
         XiaoweiHaowen John = new XiaoweiHaowen();
