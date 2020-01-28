@@ -3,4 +3,7 @@ public class CrayMatthew {
         return 5;
     }
 
+    public boolean No(){
+        return false;
+    }
 }
